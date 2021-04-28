@@ -36,7 +36,7 @@ Run the above command and give the input file.
 #### Technologies used:
 - [python3] - Version 3.8.5
 - [nltk] - natural language tool kit
-- [Beautiful Soup] - bs4 
+- [BeautifulSoup] - bs4 
 - [makefile] - run the software tool.
 
 
