@@ -33,6 +33,12 @@ Run the above command and give the input file.
 - Generate sentences from the lexemes.
 - Pass the sentences through a summarizer.
 
+##### A simple overview:
+
+![Architecture](https://user-images.githubusercontent.com/54976453/116583065-96997e00-a933-11eb-97e0-c5148b6da03d.png)
+
+
+
 #### Technologies used:
 - [python3] - Version 3.8.5
 - [nltk] - natural language tool kit
